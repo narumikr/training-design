@@ -1,0 +1,1 @@
+![Hello-SEKAI](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ffbbcc,100:33ccba&text=Hello%20SEKAI&section=header&reversal=false&fontColor=f5f5f7&fontSize=50&animation=fadeIn&desc=Becoming%20a%20tech%20lead&descSize=0&fontAlign=45&fontAlignY=40&descAlign=65&descAlignY=55)
